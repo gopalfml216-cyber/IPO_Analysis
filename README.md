@@ -116,6 +116,14 @@ The project covers the complete analytics workflow, including data cleaning, exp
 * Correlation analysis
 * Year-wise performance tracking
 * Category-based comparisons
+  <img width="1382" height="777" alt="SHEET 1" src="https://github.com/user-attachments/assets/c93f9112-2e1b-469f-aa8b-bc46537fa71e" />
+  <img width="1380" height="780" alt="SHEET 2" src="https://github.com/user-attachments/assets/e49cb6eb-c6c7-47a5-906e-d0da65e468f4" />
+  <img width="1382" height="802" alt="SHEET 3" src="https://github.com/user-attachments/assets/c922568b-4d74-465b-ba65-b960060263fe" />
+  <img width="1382" height="783" alt="SHEET 4" src="https://github.com/user-attachments/assets/342466be-9869-47ed-8123-ee9d6954ba9d" />
+
+
+
+
 
 ---
 
